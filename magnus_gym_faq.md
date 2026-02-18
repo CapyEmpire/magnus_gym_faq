@@ -1,4 +1,19 @@
-## Magnus's Gyms - Frequently Asked Questions
+# Magnus's Gyms - Frequently Asked Questions
+
+> Three climbing gyms owned by Magnus the Capybara — two in Bangkok, one in Tokyo.
+
+---
+
+## QUICK REFERENCE
+
+| What do you want? | Where to go |
+|-------------------|-------------|
+| **Climb right now** | Branch 1 (24/7, self-service) |
+| **Full wellness experience** | Branch 2 (Opening May 2026) |
+| **Quick payment** | [Express payment](https://magnusthecapybara.com/express-payment/) |
+| **Full membership** | [Signup portal](https://nic.gymmasteronline.com/portal/signup) |
+
+---
 
 ## GENERAL
 
@@ -17,23 +32,19 @@
 - Branch 2: Yes, by appointment only when we open in May 2026
 
 ### Q: Is there parking?
-**A:** yes there is a parking place (branch1) it is sathorn thani 2 building and you can
-get 2 hours free parking by stamping the ticket at glowfish
+**A:** Yes there is a parking place (Branch 1) — it is Sathorn Thani 2 building and you can get 2 hours free parking by stamping the ticket at Glowfish.
 
 ### Q: Is there WiFi?
 **A:** Yes, complimentary WiFi is available at all locations.
 
-### Q: Whats the WiFi Password?
-**A:** ssid: magnus pw: magnusthecapybara
+### Q: What's the WiFi Password?
+**A:** SSID: magnus / PW: magnusthecapybara
 
-### Q: I am already at the door, but i cant open it, my app isnt working what should I do?
-**A:** there is an emergency fob on the shoe rack inside one of the capybara shaped shoe,
- you can use it to open the door. Glowfish reception also has one of these and I can also
- open the door remotely.
+### Q: I am already at the door, but I can't open it, my app isn't working. What should I do?
+**A:** There is an emergency fob on the shoe rack inside one of the capybara-shaped shoes — you can use it to open the door. Glowfish reception also has one of these and I can also open the door remotely.
 
 ### Q: I have a problem paying. What can I do?
-**A:** if you have any problem paying during unstaffed hour, feel free to use the gym fir
-st, we can handle it later during the staffed hour remotely.
+**A:** If you have any problem paying during unstaffed hours, feel free to use the gym first — we can handle it later during staffed hours remotely.
 
 ---
 
@@ -41,14 +52,16 @@ st, we can handle it later during the staffed hour remotely.
 
 ### Q: How much does it cost?
 **A:** Our pricing in Thai Baht:
-- Day pass: 350 THB
-- Week unlimited: 550 THB
-- Month unlimited: 1,500 THB
-- 10-day pack: 2,500 THB (save 17%)
+
+| Pass Type | Price | Notes |
+|-----------|-------|-------|
+| Day pass | 350 THB | Single entry |
+| Week unlimited | 550 THB | 7 days |
+| Month unlimited | 1,500 THB | 30 days |
+| 10-day pack | 2,500 THB | Save 17% |
 
 ### Q: Can I pay cash?
-**A:** you can only during staffed hour. However we accept many forms of payment includin
-g stripe(all cards), venmo, crypto, wechat.
+**A:** You can only pay cash during staffed hours. However we accept many forms of payment including Stripe (all cards), Venmo, crypto, and WeChat.
 
 ### Q: How do I sign up?
 **A:** Two options:
@@ -56,20 +69,75 @@ g stripe(all cards), venmo, crypto, wechat.
 2. **Full signup** (membership): https://nic.gymmasteronline.com/portal/signup
 
 ### Q: Do you offer refunds?
-**A:** yes, please contact staff
+**A:** Yes, please contact staff.
 
 ### Q: Can I freeze my membership?
-**A:** yes, please contact staff
+**A:** Yes, please contact staff.
 
 ### Q: Do you have student/senior discounts?
-**A:** we dont have any promotion at the moment, but we are a community place, please let
- us know your situation and everything can be negotiated.
+**A:** We don't have any promotion at the moment, but we are a community place — please let us know your situation and everything can be negotiated.
 
 ### Q: Can I bring a guest?
-**A:** yes, but they will have to pay the day pass
+**A:** Yes, but they will have to pay the day pass rate.
 
 ### Q: Is there a joining fee?
-**A:** no joining fee.
+**A:** No joining fee.
+
+---
+
+## OUR LOCATIONS (Detailed)
+
+### Branch 1: Main (Bangkok) — 24/7 Self-Service
+**Status:** ✅ Open now
+
+**Boards & Walls:**
+- **Kilter Board 12x12** (adjustable)
+- **Moon Board 2024** (adjustable)
+- **Tension 1 Board 8x12** (adjustable)
+- Roof area
+- Circuit wall
+- Slab wall
+
+**Amenities:**
+- Locker, shower, changing room
+- Working room
+- Free WiFi (SSID: magnus / PW: magnusthecapybara)
+- 2 hours free parking (Sathorn Thani 2 building, stamp at Glowfish)
+
+**Access:**
+- Open 24/7 (self-service)
+
+---
+
+### Branch 2: Premium (Bangkok) — Opening May 2026
+**Status:** 📅 Opening May 2026 — By Appointment Only
+
+**Boards & Walls:**
+- **Kilter 12x12** (fixed at 40°)
+- **Tension 2 12x12** mirror layout (adjustable)
+- **Capy Board 8x14** (adjustable)
+- **Smart Top Rope Board (CapyBoard)**
+- 2 Lead/Top Rope walls
+- Corner wall
+- Slab wall
+
+**Wellness Facilities:**
+- Swimming pool & Hot pool
+- 4 Saunas
+- Ice bath
+- Rental rooms
+
+**Special:** 🦫 Live capybaras in 2 capybara areas!
+
+---
+
+### Board Climbing Benefits
+**Why board climbing?**
+- Tons of climbs in a small space
+- Never run out of new routes to explore
+- Caters to all skill levels
+- Kilter boards, Moon boards, Tension boards
+- Always fresh challenges
 
 ---
 
@@ -111,11 +179,12 @@ g stripe(all cards), venmo, crypto, wechat.
 - 4 Saunas
 - Ice bath
 - Rental rooms
-Branch 1:
-- locker
-- shower
-- changing room
-- working room
+
+Branch 1 has:
+- Locker
+- Shower
+- Changing room
+- Working room
 
 ### Q: Are there real capybaras at the gym?
 **A:** Yes! Branch 2 will have two capybara areas with live capybaras. 🦫
@@ -125,16 +194,16 @@ Branch 1:
 ## GEAR & EQUIPMENT
 
 ### Q: Do you rent shoes/chalk?
-**A:** yes shoe rental is 100 thb
+**A:** Yes, shoe rental is 100 THB. Chalk is free for climbing or available for purchase.
 
 ### Q: Can I buy gear there?
-**A:** yes we have tees, chalk bag, and some gears for sell
+**A:** Yes, we have tees, chalk bags, and some gear for sale.
 
 ### Q: Do you have climbing shoes for sale?
-**A:** we dont sell climbing shoes yet, but coming soon.
+**A:** We don't sell climbing shoes yet, but coming soon.
 
 ### Q: Should I bring my own chalk?
-**A:** we sell chalk and also give out for free if youd like to use for climbing
+**A:** We sell chalk and also give out for free if you'd like to use it for climbing.
 
 ---
 
@@ -144,69 +213,45 @@ Branch 1:
 **A:** Absolutely! Our boards cater to all skill levels. Whether you're just starting or training for your next grade, we have climbs for you.
 
 ### Q: Do you offer coaching/classes?
-**A:** yes we do have coaching lesson, let us know your availability
+**A:** Yes, we do have coaching lessons. Let us know your availability.
 
 ### Q: Do I need to take a safety course?
-**A:** only for lead climbing
+**A:** Only for lead climbing.
 
 ### Q: Is there an age limit?
-**A:** no limit but we ask that children be appompanied by adults
+**A:** No limit, but we ask that children be accompanied by adults.
 
 ### Q: Do I need a belay partner?
-**A:** For roped climbing at Branch 2, we have auto belay both for top rope and lead but you will need to be certified first. For board climbing and bouldering, no partner needed.
+**A:** For roped climbing at Branch 2, we have auto belay for both top rope and lead, but you will need to be certified first. For board climbing and bouldering, no partner needed.
 
 ---
 
 ## RULES & POLICIES
 
 ### Q: Can I take photos/videos?
-**A:** absolutely
+**A:** Absolutely!
 
 ### Q: Can I bring food/drinks?
-**A:** yes but please clen up after yourself
+**A:** Yes, but please clean up after yourself.
 
 ### Q: Is there a dress code?
-**A:** there is no dress code, you may take your shirt off during climb, but please wear
-climbing shoes
+**A:** There is no dress code — you may take your shirt off during climb, but please wear climbing shoes.
 
 ### Q: Can I bring my dog?
-**A:** only small dogs and you need to make sure that they are friendly with the capybara
-s
+**A:** Only small dogs, and you need to make sure that they are friendly with the capybaras.
 
 ---
 
 ## ACCESS & TECHNOLOGY
 
 ### Q: How does 24/7 access work?
-**A:** Branch 1 is fully automated. download the app and sign up here. https://nic.gymmasteronline.com/portal/signup you can unlock the door using an app
+**A:** Branch 1 is fully automated. Download the app and sign up at https://nic.gymmasteronline.com/portal/signup — you can unlock the door using the app.
 
 ### Q: Is there an app?
-### Q: Is there a dress code?
-**A:** there is no dress code, you may take your shirt off during climb, but please wear climbing shoes
-
-### Q: Can I bring my dog?
-**A:** only small dogs and you need to make sure that they are friendly with the capybaras
-
----
-
-### Q: Is there a dress code?
-**A:** there is no dress code, you may take your shirt off during climb, but please wear climbing shoes
-
-### Q: Can I bring my dog?
-**A:** only small dogs and you need to make sure that they are friendly with the capybaras
-
----
-
-## ACCESS & TECHNOLOGY
-
-### Q: How does 24/7 access work?
-**A:** Branch 1 is fully automated. download the app and sign up here. https://nic.gymmasteronline.com/portal/signup you can unlock the door using an app
-
-### Q: Is there an app?
-**A:** please see this link https://nic.gymmasteronline.com/portal/signup
+**A:** Yes — please see this link: https://nic.gymmasteronline.com/portal/signup
 
 ### Q: Do the boards need an app to use?
-**A:** yes there are instructions inside the gym
+**A:** Yes, there are instructions inside the gym.
 
 ---
 
@@ -214,9 +259,9 @@ s
 
 ### Q: How do I reach you?
 **A:**
-- WhatsApp: You're already here! Message Magnus directly
-- Manager: +66963541684
-- Social media: https://t.ly/magnusBio
+- **WhatsApp:** You're already here! Message Magnus directly
+- **Manager:** +66963541684
+- **Social media:** https://t.ly/magnusBio
 
 ### Q: Who should I contact for...?
 **A:** For most questions, message me (Magnus) here. For complex issues, contact our manager at +66963541684.
@@ -226,6 +271,8 @@ s
 ## TOKYO LOCATION
 
 ### Q: Tell me about the Tokyo gym
-**A:** opening end of march 2026 in nakano, 4 minutes from shinjuku station. A climbing gym with 4 rental rooms.
+**A:** Opening end of March 2026 in Nakano, 4 minutes from Shinjuku station. A climbing gym with 4 rental rooms.
 
 ---
+
+*Magnus's Gyms — Climb with the capybaras! 🦫*
