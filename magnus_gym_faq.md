@@ -41,7 +41,7 @@ st, we can handle it later during the staffed hour remotely.
 
 ### Q: How much does it cost?
 **A:** Our pricing in Thai Baht:
-- Day pass: 300 THB
+- Day pass: 350 THB
 - Week unlimited: 550 THB
 - Month unlimited: 1,500 THB
 - 10-day pack: 2,500 THB (save 17%)
